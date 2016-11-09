@@ -1,3 +1,5 @@
+//author : Walid Benjehd 
+//email : Walidbenjehd@gmail.com
 package model;
 
 import java.io.Serializable;

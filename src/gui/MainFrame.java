@@ -1,5 +1,6 @@
 package gui;
-
+//author : Walid Benjehd 
+//email : Walidbenjehd@gmail.com
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Dimension;
