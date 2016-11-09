@@ -1,0 +1,189 @@
+TD {FONT-SIZE: 10px; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"}
+
+.textBox  {width: 105px; height: 18px; border: 0; padding: 0}
+
+.lrgblk {FONT-SIZE: 14px; COLOR: black}
+.lrgblkbld {FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: black}
+
+.mdbwn{COLOR: #676734; text-decoration: none; font-size: 12px}
+.mdbwn:link{COLOR: #676734; TEXT-DECORATION: none}
+.mdbwn:visited{COLOR: #676734; TEXT-DECORATION: none}
+.mdbwn:hover{COLOR: #B7AC80; TEXT-DECORATION: none}
+.mdbwn:active{TEXT-DECORATION: none}
+
+.mdblk {FONT-SIZE: 12px; color: #000;}
+.mdblk:link { text-decoration: none; color: #7F0202; }
+.mdblk:visited { text-decoration: none; color: #7F0202; }
+.mdblk:hover {}
+.mdblk:active {}
+
+.mdblkpr {FONT-SIZE: 12px}
+
+.smdkred2{FONT-SIZE: 10px; TEXT-DECORATION: none}
+.smdkred2:link{COLOR: #990000; TEXT-DECORATION: none}
+.smdkred2:visited{COLOR: #990000; TEXT-DECORATION: none}
+.smdkred2:hover{COLOR: #FF6666; TEXT-DECORATION: none}
+.smdkred2:active{COLOR: #FF6666; TEXT-DECORATION: none}
+
+
+.mddkredo{COLOR: #5d0006; text-decoration: none; FONT-SIZE: 12px}
+.mddkredo:link{COLOR: #990000; TEXT-DECORATION: none}
+.mddkredo:visited{COLOR: #990000; TEXT-DECORATION: none}
+.mddkredo:hover{COLOR: #FF6666; TEXT-DECORATION: none}
+.mddkredo:active{COLOR: #FF6666; TEXT-DECORATION: none} 
+
+.mddkred{COLOR: #5d0006; text-decoration: none; FONT-SIZE: 12px}
+.mddkred:link{COLOR: #7F0202; TEXT-DECORATION: none}
+.mddkred:visited{COLOR: #7F0202; TEXT-DECORATION: none}
+.mddkred:hover{COLOR: #EE5555; TEXT-DECORATION: none}
+.mddkred:active{COLOR: #EE5555; TEXT-DECORATION: none} 
+
+.smdkred{COLOR: #5d0006;TEXT-DECORATION: none}
+.smdkred:link{COLOR: #7F0202; TEXT-DECORATION: none}
+.smdkred:visited{COLOR: #7F0202; TEXT-DECORATION: none}
+.smdkred:hover{COLOR: #EE5555; TEXT-DECORATION: none}
+.smdkred:active{COLOR: #EE5555; TEXT-DECORATION: none}
+
+.smtimered{COLOR: #781d23; TEXT-DECORATION: none}
+.smtimered:link{COLOR: #7F0202; TEXT-DECORATION: none}
+.smtimered:visited{COLOR: #7F0202; TEXT-DECORATION: none}
+.smtimered:hover{COLOR: #EE5555; TEXT-DECORATION: none}
+.smtimered:active{COLOR: #EE5555; TEXT-DECORATION: none}
+
+.smdkredbld{COLOR: #5d0006; TEXT-DECORATION: none; FONT-WEIGHT: bold; }
+.smdkredbld:link{COLOR: #7F0202; TEXT-DECORATION: none}
+.smdkredbld:visited{COLOR: #7F0202; TEXT-DECORATION: none}
+.smdkredbld:hover{COLOR: #EE5555; TEXT-DECORATION: none}
+.smdkredbld:active{COLOR: #EE5555; TEXT-DECORATION: none}
+
+.mdredb {FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none}
+.mdredb:link  {text-decoration: none; color: #990000;}
+.mdredb:visited {text-decoration: none; color: #990000;}
+.mdredb:hover {text-decoration: none; color: #FF6666;}
+.mdredb:active {text-decoration: none; color: #FF6666;}
+
+.mdblub {FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none}
+.mdblub:link  {text-decoration: none; color: #3366CC;}
+.mdblub:visited {text-decoration: none; color: #3366CC;}
+.mdblub:hover {text-decoration: none; color: #6699FF;}
+.mdblub:active {text-decoration: none; color: #6699FF;}
+
+.mdblubu {FONT-SIZE: 12px;}
+.mdblubu:link  {FONT-WEIGHT: bold; text-decoration: none; color: #0066CC;}
+.mdblubu:visited {FONT-WEIGHT: bold; text-decoration: none; color: #0066CC;}
+.mdblubu:hover {FONT-WEIGHT: bold; text-decoration: none; color: #99CCFF;}
+.mdblubu:active {FONT-WEIGHT: bold; text-decoration: none; color: #99CCFF;}
+
+.mdbluu {FONT-SIZE: 12px; TEXT-DECORATION: none}
+.mdbluu:link  {text-decoration: none; color: #3366CC;}
+.mdbluu:visited {text-decoration: none; color: #3366CC;}
+.mdbluu:hover {text-decoration: underline; color: #6699FF;}
+.mdbluu:active {text-decoration: underline; color: #6699FF;}
+
+.mdblkbld {FONT-WEIGHT: bold; FONT-SIZE: 12px}
+.mdblkbld2 {COLOR: #000000; FONT-WEIGHT: bold; FONT-SIZE: 12px}
+.mddkredsel{COLOR: #a46f72; FONT-WEIGHT: bold; FONT-SIZE: 12px}
+
+.mddkredbld{FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none}
+.mddkredbld:link{COLOR: #5d0006; TEXT-DECORATION: none}
+.mddkredbld:visited{COLOR: #5d0006; TEXT-DECORATION: none}
+.mddkredbld:hover{COLOR: #a46f72; TEXT-DECORATION: none}
+.mddkredbld:active{TEXT-DECORATION: none} 
+
+.mdgrey {FONT-SIZE: 12px; COLOR: #c9c9c9}
+.mdgrey:link  {FONT-WEIGHT: bold; text-decoration: none; color: #B9B9B9;}
+.mdgrey:visited {FONT-WEIGHT: bold; text-decoration: none; color: #B9B9B9;}
+.mdgrey:hover {FONT-WEIGHT: bold; text-decoration: none; color: #666666;}
+.mdgrey:active {FONT-WEIGHT: bold; text-decoration: none; color: #666666;}
+
+.mdgreybld {FONT-SIZE: 12px; FONT-WEIGHT: bold; COLOR: #c9c9c9}
+.mdmgrey {FONT-SIZE: 12px; COLOR: #aaaaaa}
+.mdmgreybld {FONT-SIZE: 12px; FONT-WEIGHT: bold; COLOR: #aaaaaa}
+
+.mdtimered {FONT-SIZE: 12px; COLOR: #781d23}
+.mdtimered:link {COLOR: #781d23}
+.mdtimered:visited {COLOR: #781d23}
+.mdtimered:hover {COLOR: #b77b7e}
+.mdtimered:active {}
+
+.smblk {COLOR: #000000; TEXT-DECORATION: none}
+.smblkbld {COLOR: #000000; TEXT-DECORATION: none; FONT-WEIGHT: bold}
+.smblk2 {FONT-SIZE: 10px; COLOR: #000000; TEXT-DECORATION: none}
+
+.smblue {COLOR: #6e8ba5; TEXT-DECORATION: none}
+.smblue:link{COLOR: #6e8ba5; TEXT-DECORATION: none}
+.smblue:visited{COLOR: #6e8ba5; TEXT-DECORATION: none}
+.smblue:hover{COLOR: #a9c2d9; TEXT-DECORATION: none}
+.smblue:active {TEXT-DECORATION: none}
+
+.smbwn{COLOR: #676734; text-decoration: none}
+.smbwn:link{COLOR: #676734; TEXT-DECORATION: none}
+.smbwn:visited{COLOR: #676734; TEXT-DECORATION: none}
+.smbwn:hover{COLOR: #B7AC80; TEXT-DECORATION: none}
+.smbwn:active{TEXT-DECORATION: none}
+
+.smdkblue{COLOR: #2f6d9a; TEXT-DECORATION: none}
+.smdkblue:link{TEXT-DECORATION: none}
+.smdkblue:visited{COLOR: #1e557c; TEXT-DECORATION: none}
+.smdkblue:hover{COLOR: #a9c2d9; TEXT-DECORATION: none}
+.smdkblue:active{TEXT-DECORATION: none}
+
+
+.smgrey {COLOR: #c9c9c9}
+.smnews{COLOR: #990000;TEXT-DECORATION: none}
+.smnews:link{COLOR: #990000; TEXT-DECORATION: none}
+.smnews:visited{COLOR: #990000; TEXT-DECORATION: none}
+.smnews:hover{COLOR: #CC0000; TEXT-DECORATION: none}
+.smnews:active{TEXT-DECORATION: none}
+
+.smnewsbld{COLOR: #990000;TEXT-DECORATION: none; font-weight: bold}
+.smnewsbld:link{COLOR: #990000; TEXT-DECORATION: none}
+.smnewsbld:visited{COLOR: #990000; TEXT-DECORATION: none}
+.smnewsbld:hover{COLOR: #CC0000; TEXT-DECORATION: none}
+.smnewsbld:active{TEXT-DECORATION: none}
+
+.smtimeredbld{FONT-WEIGHT: bold; COLOR: #781d23; TEXT-DECORATION: none}
+.smtimeredbld:link{COLOR: #781d23; TEXT-DECORATION: none}
+.smtimeredbld:visited{COLOR: #781d23; TEXT-DECORATION: none}
+.smtimeredbld:hover{COLOR: #b77b7e; TEXT-DECORATION: none}
+.smtimeredbld:active{TEXT-DECORATION: none}
+
+.smwht{COLOR: white; TEXT-DECORATION: none}
+.mdwht{FONT-WEIGHT: bold; COLOR: white; TEXT-DECORATION: none}
+.lrgwhtbld{FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: white; TEXT-DECORATION: none}
+.xlrgblk{FONT-SIZE: 16px}
+
+
+A:link  {text-decoration: none; color: #000000;}
+A:visited {text-decoration: none; color: #000000;}
+A:hover {text-decoration: none; color: #CC2222;}
+A:active {text-decoration: none; color: #CC2222;}
+
+img.float-left        { float: left; margin: 0px 12px 7px 0px; }
+img.float-right       { float: right; margin: 0px 0px 20px 20px; border: 1px solid black; z-index:10;}
+img.thumbnail         { border: 1px solid black; margin: 0px 19px 19px 0px; }
+
+
+.timelinetitle {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.mddkred2{
+	font-size: 12px;
+	font-family: "Verdana","Arial","Helvetica","sans-serif";
+	color: #5d0006;
+	text-decoration: none;
+}
+.mddkred2:link{
+	color: #5d0006;
+}
+.mddkred2:visited{
+	color: #5d0006;
+}
+.mddkred2:hover{
+	color: #ee5555;
+}
+.mddkred2:active{
+	color: #ee5555;
+}
